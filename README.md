@@ -3,7 +3,7 @@
 ## apps
 
 
-- [Trace Together](https://www.tracetogether.gov.sg)
+- [Trace Together](https://www.tracetogether.gov.sg) (Singapore)
 - [Diagnostic Robotics](https://www.diagnosticrobotics.com/covid-19) (Israel)
 
 ## bot in messaging app
