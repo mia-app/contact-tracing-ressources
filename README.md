@@ -15,3 +15,6 @@
 - [Pan-European Privacy-Preserving Proximity Tracing](https://www.pepp-pt.org)
 - [Apple + Google | Bluetooth Privacy Standards](https://www.apple.com/covid19/contacttracing/)
 
+## Research
+
+- [Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing](https://science.sciencemag.org/content/early/2020/04/09/science.abb6936)
