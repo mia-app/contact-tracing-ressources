@@ -9,7 +9,7 @@
 
 ### in development
 
-- (NHS App)[https://www.theguardian.com/world/2020/apr/13/nhs-coronavirus-app-memo-discussed-giving-ministers-power-to-de-anonymise-users] (UK)
+- [NHS App](https://www.theguardian.com/world/2020/apr/13/nhs-coronavirus-app-memo-discussed-giving-ministers-power-to-de-anonymise-users) (UK)
 
 ## bot in messaging app
 
