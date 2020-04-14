@@ -2,9 +2,9 @@
 
 ## apps
 
-
 - [Trace Together](https://www.tracetogether.gov.sg) (Singapore)
 - [Diagnostic Robotics](https://www.diagnosticrobotics.com/covid-19) (Israel)
+- [Amelia](https://www.ipsoft.com/covid-19/)
 
 ## bot in messaging app
 
