@@ -7,6 +7,10 @@
 - [Amelia](https://www.ipsoft.com/covid-19/)
 - [Covid Watch](https://www.covid-watch.org)
 
+### in development
+
+- (NHS App)[https://www.theguardian.com/world/2020/apr/13/nhs-coronavirus-app-memo-discussed-giving-ministers-power-to-de-anonymise-users] (UK)
+
 ## bot in messaging app
 
 - [WhatsApp bot for the German Cross](https://www.realwire.com/releases/tyntec-and-Future-of-Voice-develop-WhatsApp-bot-for-the-German-Red-Cross)
