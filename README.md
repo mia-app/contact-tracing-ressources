@@ -6,6 +6,7 @@
 - [Diagnostic Robotics](https://www.diagnosticrobotics.com/covid-19) (Israel)
 - [Amelia](https://www.ipsoft.com/covid-19/)
 - [Covid Watch](https://www.covid-watch.org)
+- [Rakning C-19](https://www.covid.is/app/en) (Iceland – 40% coverage)
 
 ### in development
 
