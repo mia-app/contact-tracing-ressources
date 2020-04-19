@@ -29,3 +29,4 @@
 ## Critical Essays by Experts
 
 - [Contact Tracing in the Real World](https://www.lightbluetouchpaper.org/2020/04/12/contact-tracing-in-the-real-world/)
+- [The Challenge of Proximity Apps For COVID-19 Contact Tracing](https://www.eff.org/deeplinks/2020/04/challenge-proximity-apps-covid-19-contact-tracing)
