@@ -3,7 +3,7 @@
 ## apps
 
 - [Trace Together](https://www.tracetogether.gov.sg) (Singapore)
-- [Safe Paths] (https://www.media.mit.edu/projects/safepaths/overview/) (US)
+- [Safe Paths](https://www.media.mit.edu/projects/safepaths/overview/) (US)
 - [Diagnostic Robotics](https://www.diagnosticrobotics.com/covid-19) (Israel)
 - [Amelia](https://www.ipsoft.com/covid-19/)
 - [Covid Watch](https://www.covid-watch.org)
