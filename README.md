@@ -9,6 +9,7 @@
 - [Covid Watch](https://www.covid-watch.org)
 - [Rakning C-19](https://www.covid.is/app/en) (Iceland)
 - [DP^3T](https://github.com/DP-3T/documents) (Europe)
+- [COVIDSafe](https://www.health.gov.au/resources/apps-and-tools/covidsafe-app) (Australia)
 
 ### in development
 
