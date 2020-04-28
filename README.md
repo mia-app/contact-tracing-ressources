@@ -11,6 +11,7 @@
 - [DP^3T](https://github.com/DP-3T/documents) (Europe)
 - [COVIDSafe](https://www.health.gov.au/resources/apps-and-tools/covidsafe-app) (Australia)
 - [Stopp Corona](https://participate.roteskreuz.at/stopp-corona/) (Austria)
+- [Velmio](https://www.velmio.com/corona-tracker) (Estonia)
 
 ### in development
 
